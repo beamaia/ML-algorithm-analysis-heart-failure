@@ -1,0 +1,14 @@
+# Setup tools
+jupyter==1.0.0
+notebook==6.4.11
+
+# Basic datasci modules
+numpy==1.22.4
+pandas==1.4.1
+
+# visual representation
+matplotlib==3.5.2
+seaborn==0.11.2
+
+# ML modules
+scikit-learn==1.1.1
